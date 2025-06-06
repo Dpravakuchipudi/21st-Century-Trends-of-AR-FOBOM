@@ -1,5 +1,3 @@
-# 21st-Century-Trends-of-AR-FOBOM
-
 # 21st Century Trends of AR: FOBOM  
 *Augmented Reality Exploration using Spark AR and Unity 3D*
 
